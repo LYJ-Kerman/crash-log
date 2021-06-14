@@ -1,0 +1,2524 @@
+Mono path[0] = 'F:/lyj's locker/lyj's games/steam/steamapps/common/Kerbal Space Program 1.11.2/KSP_x64_Data/Managed'
+Mono config path = 'F:/lyj's locker/lyj's games/steam/steamapps/common/Kerbal Space Program 1.11.2/MonoBleedingEdge/etc'
+Initialize engine version: 2019.2.2f1 (ab112815d860)
+[XR] Discovering subsystems at path F:/lyj's locker/lyj's games/steam/steamapps/common/Kerbal Space Program 1.11.2/KSP_x64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970 (ID=0x13c2)
+    Vendor:   
+    VRAM:     4043 MB
+    Driver:   27.21.14.5671
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.125 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.629200 ms
+Release Build
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[KSP Version]: 1.11.2.3077 (WindowsPlayer x64) (x64) zh-cn ==============================
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[Input Devices]: 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Launcher disabled? False
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SteamManager]: SteamAPI_Init() failed. Refer to Valve's documentation or the comment above this line for more information.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Uploading Crash Report
+InvalidOperationException: Steamworks is not initialized.
+  at Steamworks.InteropHelp.TestIfAvailableClient () [0x0001d] in <9a504f0876ca4f78a70d2a7209be1249>:0 
+  at Steamworks.SteamApps.GetAppInstallDir (Steamworks.AppId_t appID, System.String& pchFolder, System.UInt32 cchFolderBufferSize) [0x00000] in <9a504f0876ca4f78a70d2a7209be1249>:0 
+  at SteamManager.Awake () [0x001b0] in <06f13185617646e5bc801baeab53ab75>:0 
+ 
+(Filename: <9a504f0876ca4f78a70d2a7209be1249> Line: 0)
+
+PhysicsGlobals: Loading database
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[SpaceNavigatorWindows]: Could not initialize device.
+没有注册类
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+******* Log Initiated for Kerbal Space Program - 1.11.2.3077 (WindowsPlayer x64) zh-cn *******
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ActionCanvas MASK: 3458764513820540928
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AppCanvas MASK: 3458764513820540928
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+MainCanvas MASK: 3458764513820540928
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cannot create config from file 'F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\DecouplerShroud\Textures\ShroudTextureConfigs.cfg'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cannot create config from file 'F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\ExtraplanetaryLaunchpads\EL_CCK-tags.cfg'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Config in file 'F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\GU\WARNING.cfg' contains no data.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Error: Empty part config file
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cannot create config from file 'F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\WarpPlugin\Parts\Engines\Wyvern\Upgrades.cfg'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cannot create config from file 'F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Workshop\MM_Patches\MM_KerbalPlanetaryBaseSystem.cfg'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cannot create config from file 'F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Workshop\MM_Patches\MM_MKS.cfg'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Cannot create config from file 'F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Workshop\MM_Patches\MM_WildBlueIndustries.cfg'.
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): /666_ModuleManagerWatchDog
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\666_ModuleManagerWatchDog.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): /999_Scale_Redist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\999_Scale_Redist.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): /KSPModFileLocalizer
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KSPModFileLocalizer.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): /KSPUpgradeScriptFix
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KSPUpgradeScriptFix.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): /ModuleManager.4.1.4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\ModuleManager.4.1.4.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'ModuleManager' V2.5.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): 000_ClickThroughBlocker/Plugins/ClickThroughBlocker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\000_ClickThroughBlocker\Plugins\ClickThroughBlocker.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'ClickThroughBlocker' V1.8.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): 000_FilterExtensions/Plugins/FilterExtensions
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\000_FilterExtensions\Plugins\FilterExtensions.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): 000_USITools/USITools
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\000_USITools\USITools.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): 001_ToolbarControl/Plugins/ToolbarControl
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\001_ToolbarControl\Plugins\ToolbarControl.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'ToolbarController' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ClickThroughBlocker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): 999_KSP-Recall/Plugins/Attached
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\999_KSP-Recall\Plugins\Attached.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): 999_KSP-Recall/Plugins/ChillingOut
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\999_KSP-Recall\Plugins\ChillingOut.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): 999_KSP-Recall/Plugins/Driftless
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\999_KSP-Recall\Plugins\Driftless.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): 999_KSP-Recall/Plugins/KSP-Recall
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\999_KSP-Recall\Plugins\KSP-Recall.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): 999_KSP-Recall/Plugins/KSPe.Light.Recall
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\999_KSP-Recall\Plugins\KSPe.Light.Recall.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'KSPe.Light.Recall' V2.3.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): 999_KSP-Recall/Plugins/Refunding
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\999_KSP-Recall\Plugins\Refunding.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): 999_KSP-Recall/Plugins/Resourceful
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\999_KSP-Recall\Plugins\Resourceful.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): ASET/ASET_Props/Plugin/ASETPropsIdentifier
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\ASET\ASET_Props\Plugin\ASETPropsIdentifier.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): AtmosphereAutopilot/AtmosphereAutopilot
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\AtmosphereAutopilot\AtmosphereAutopilot.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): AtmosphereAutopilot/AtmosphereAutopilot.UI
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\AtmosphereAutopilot\AtmosphereAutopilot.UI.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): B9PartSwitch/Plugins/B9PartSwitch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\B9PartSwitch\Plugins\B9PartSwitch.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'B9PartSwitch' V2.18.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): B9_Aerospace_ProdecuralWings-1-0-0/GameData/B9_Aerospace_ProceduralWings/Plugins/B9_Aerospace_WingStuff
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\B9_Aerospace_ProdecuralWings-1-0-0\GameData\B9_Aerospace_ProceduralWings\Plugins\B9_Aerospace_WingStuff.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): Benjee10_MMSEV/Plugins/PlanetsideExplorationTechnologies
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Benjee10_MMSEV\Plugins\PlanetsideExplorationTechnologies.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): BetterBurnTime/BetterBurnTime
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\BetterBurnTime\BetterBurnTime.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): BetterTimeWarp/Plugins/BetterTimeWarp
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\BetterTimeWarp\Plugins\BetterTimeWarp.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'BetterTimeWarp' V2.1.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ClickThroughBlocker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ToolbarController' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): BonVoyage/Plugins/BonVoyage
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\BonVoyage\Plugins\BonVoyage.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): Champagne/Plugins/ChampagneBottle
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Champagne\Plugins\ChampagneBottle.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ClickThroughBlocker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ToolbarController' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): CommunityCategoryKit/CCK
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\CommunityCategoryKit\CCK.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): ContractPacks/GAP 1.6.1/GameData/ContractPacks/GAP/MiniAVC
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\ContractPacks\GAP 1.6.1\GameData\ContractPacks\GAP\MiniAVC.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): CryoTanks/Plugins/SimpleBoiloff
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\CryoTanks\Plugins\SimpleBoiloff.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): DecouplerShroud/DecouplerShroud
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\DecouplerShroud\DecouplerShroud.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): DeployableEngines/Plugins/DeployableEngines
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\DeployableEngines\Plugins\DeployableEngines.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): Diazo/AGExt/MiniAVC
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Diazo\AGExt\MiniAVC.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): Diazo/AGExt/Plugins/AGExt
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Diazo\AGExt\Plugins\AGExt.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ClickThroughBlocker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ToolbarController' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): DMagicOrbitalScience/Plugins/DMagic
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\DMagicOrbitalScience\Plugins\DMagic.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'DMagic' V1.4.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): DynamicBatteryStorage/Plugins/DynamicBatteryStorage
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\DynamicBatteryStorage\Plugins\DynamicBatteryStorage.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EditorExtensionsRedux/Plugins/EditorExtensionsRedux
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EditorExtensionsRedux\Plugins\EditorExtensionsRedux.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EnvironmentalVisualEnhancements/Plugins/Atmosphere
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EnvironmentalVisualEnhancements\Plugins\Atmosphere.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EnvironmentalVisualEnhancements/Plugins/CelestialShadows
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EnvironmentalVisualEnhancements\Plugins\CelestialShadows.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EnvironmentalVisualEnhancements/Plugins/CityLights
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EnvironmentalVisualEnhancements\Plugins\CityLights.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EnvironmentalVisualEnhancements/Plugins/EVEManager
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EnvironmentalVisualEnhancements\Plugins\EVEManager.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EnvironmentalVisualEnhancements/Plugins/PartFX
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EnvironmentalVisualEnhancements\Plugins\PartFX.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EnvironmentalVisualEnhancements/Plugins/PQSManager
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EnvironmentalVisualEnhancements\Plugins\PQSManager.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EnvironmentalVisualEnhancements/Plugins/ShaderLoader
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EnvironmentalVisualEnhancements\Plugins\ShaderLoader.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EnvironmentalVisualEnhancements/Plugins/Terrain
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EnvironmentalVisualEnhancements\Plugins\Terrain.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EnvironmentalVisualEnhancements/Plugins/TextureConfig
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EnvironmentalVisualEnhancements\Plugins\TextureConfig.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EnvironmentalVisualEnhancements/Plugins/Utils
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EnvironmentalVisualEnhancements\Plugins\Utils.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): EnvironmentalVisualEnhancements/Plugins/_BuildManager
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\EnvironmentalVisualEnhancements\Plugins\_BuildManager.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): ExtraplanetaryLaunchpads/Plugins/Launchpad
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\ExtraplanetaryLaunchpads\Plugins\Launchpad.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): FerramAerospaceResearch/Plugins/FerramAerospaceResearch.Base
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\FerramAerospaceResearch\Plugins\FerramAerospaceResearch.Base.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): FerramAerospaceResearch/Plugins/FerramAerospaceResearch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\FerramAerospaceResearch\Plugins\FerramAerospaceResearch.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'FerramAerospaceResearch' V0.16.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ModularFlightIntegrator' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): FerramAerospaceResearch/Plugins/ferramGraph
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\FerramAerospaceResearch\Plugins\ferramGraph.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): FerramAerospaceResearch/Plugins/Scale_Redist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\FerramAerospaceResearch\Plugins\Scale_Redist.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): Firespitter/Plugins/Firespitter
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Firespitter\Plugins\Firespitter.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): FMRS/MiniAVC
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\FMRS\MiniAVC.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): FMRS/Plugins/FMRS
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\FMRS\Plugins\FMRS.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'SlingShotter' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ToolbarController' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): FShangarExtender/MiniAVC
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\FShangarExtender\MiniAVC.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): FShangarExtender/Plugins/FShangarExtender
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\FShangarExtender\Plugins\FShangarExtender.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ToolbarController' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): GU/MiniAVC
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\GU\MiniAVC.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): HideEmptyTechTreeNodes/Plugins/HideEmptyTechTreeNodes
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\HideEmptyTechTreeNodes\Plugins\HideEmptyTechTreeNodes.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): InterstellarFuelSwitch/Plugins/InterstellarFuelSwitch
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\InterstellarFuelSwitch\Plugins\InterstellarFuelSwitch.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): InterstellarFuelSwitch/Plugins/MiniAVC
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\InterstellarFuelSwitch\Plugins\MiniAVC.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): JSI/RasterPropMonitor/Plugins/RasterPropMonitor
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\JSI\RasterPropMonitor\Plugins\RasterPropMonitor.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'RasterPropMonitor' V0.18.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): KAS/Plugins/KAS-API-v2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KAS\Plugins\KAS-API-v2.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): KAS/Plugins/KAS
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KAS\Plugins\KAS.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'KAS' V1.7.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): KAS/Plugins/KSPDev_Utils.2.4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KAS\Plugins\KSPDev_Utils.2.4.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): KerbalEngineer/KerbalEngineer
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KerbalEngineer\KerbalEngineer.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'KerbalEngineer.Unity' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): KerbalEngineer/KerbalEngineer.Unity
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KerbalEngineer\KerbalEngineer.Unity.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'KerbalEngineer.Unity' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): KerbalReusabilityExpansion/DeployableAeroSurfaces
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KerbalReusabilityExpansion\DeployableAeroSurfaces.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): KIS/Plugins/KIS
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KIS\Plugins\KIS.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'KIS' V1.28.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): KIS/Plugins/KSPDev_Utils.2.4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KIS\Plugins\KSPDev_Utils.2.4.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): KIS/Plugins/MiniAVC-V2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KIS\Plugins\MiniAVC-V2.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): Kopernicus/Plugins/Kopernicus
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Kopernicus\Plugins\Kopernicus.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'Kopernicus' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'Kopernicus.Parser' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ModularFlightIntegrator' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): Kopernicus/Plugins/Kopernicus.Parser
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Kopernicus\Plugins\Kopernicus.Parser.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'Kopernicus.Parser' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): kOS/Plugins/ICSharpCode.SharpZipLib
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\kOS\Plugins\ICSharpCode.SharpZipLib.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): kOS/Plugins/kOS
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\kOS\Plugins\kOS.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'kOS' V1.3.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): kOS/Plugins/kOS.Safe
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\kOS\Plugins\kOS.Safe.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): ksp-advanced-flybywire/Plugins/ksp-advanced-flybywire
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\ksp-advanced-flybywire\Plugins\ksp-advanced-flybywire.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ClickThroughBlocker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ToolbarController' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): ksp-advanced-flybywire/Plugins/XInputDotNetPure
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\ksp-advanced-flybywire\Plugins\XInputDotNetPure.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): KSPTOTConnect/Plugins/KSPTOTConnect
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\KSPTOTConnect\Plugins\KSPTOTConnect.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): LunaMultiplayer/Plugins/0Harmony
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\LunaMultiplayer\Plugins\0Harmony.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): LunaMultiplayer/Plugins/CachedQuickLz
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\LunaMultiplayer\Plugins\CachedQuickLz.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): LunaMultiplayer/Plugins/JsonFx
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\LunaMultiplayer\Plugins\JsonFx.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): LunaMultiplayer/Plugins/Lidgren.Network
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\LunaMultiplayer\Plugins\Lidgren.Network.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): LunaMultiplayer/Plugins/LmpClient
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\LunaMultiplayer\Plugins\LmpClient.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'LMP' V0.27.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): LunaMultiplayer/Plugins/LmpCommon
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\LunaMultiplayer\Plugins\LmpCommon.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): LunaMultiplayer/Plugins/LmpGlobal
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\LunaMultiplayer\Plugins\LmpGlobal.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): LunaMultiplayer/Plugins/System.Runtime.Serialization
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\LunaMultiplayer\Plugins\System.Runtime.Serialization.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): MechJeb2/Plugins/MechJeb2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\MechJeb2\Plugins\MechJeb2.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'MechJeb2' V2.5.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): ModularFlightIntegrator/ModularFlightIntegrator
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\ModularFlightIntegrator\ModularFlightIntegrator.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'ModularFlightIntegrator' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): NearFutureElectrical/Plugins/NearFutureElectrical
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\NearFutureElectrical\Plugins\NearFutureElectrical.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): NearFutureExploration/Plugins/NearFutureExploration
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\NearFutureExploration\Plugins\NearFutureExploration.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): NearFutureProps/Plugins/NFPropUtils
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\NearFutureProps\Plugins\NFPropUtils.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): NearFuturePropulsion/Plugins/NearFuturePropulsion
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\NearFuturePropulsion\Plugins\NearFuturePropulsion.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): NearFutureSolar/Plugins/NearFutureSolar
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\NearFutureSolar\Plugins\NearFutureSolar.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): NearFutureSpacecraft/Plugins/NearFutureUtils
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\NearFutureSpacecraft\Plugins\NearFutureUtils.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): Orion/Plugins/Orion
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Orion\Plugins\Orion.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): PersistentRotation/Plugins/PersistentRotation
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\PersistentRotation\Plugins\PersistentRotation.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): PersistentThrust/Plugin/PersistentThrust
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\PersistentThrust\Plugin\PersistentThrust.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): PhotonSail/Plugins/Interstellar_Redist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\PhotonSail\Plugins\Interstellar_Redist.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): PhotonSail/Plugins/MiniAVC
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\PhotonSail\Plugins\MiniAVC.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): PhotonSail/Plugins/PhotonSail
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\PhotonSail\Plugins\PhotonSail.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): PlanetaryBaseInc/BaseSystem/Plugins/PlanetarySurfaceStructures
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\PlanetaryBaseInc\BaseSystem\Plugins\PlanetarySurfaceStructures.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'PlanetarySurfaceStructures' V1.5840.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): RATPack/Plugins/RATPack
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\RATPack\Plugins\RATPack.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ClickThroughBlocker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): RealChute/Plugins/RealChute
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\RealChute\Plugins\RealChute.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): ReCoupler/ReCoupler
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\ReCoupler\ReCoupler.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): RecoveryController/MiniAVC
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\RecoveryController\MiniAVC.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): RecoveryController/Plugins/RecoveryController
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\RecoveryController\Plugins\RecoveryController.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): REPOSoftTech/BackgroundResources/BackgroundResources
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\REPOSoftTech\BackgroundResources\BackgroundResources.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): REPOSoftTech/DeepFreeze/Plugins/DeepFreeze
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\REPOSoftTech\DeepFreeze\Plugins\DeepFreeze.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'DeepFreeze' V0.30.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): RetractableLiftingSurface/Plugins/RetractableLiftingSurface
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\RetractableLiftingSurface\Plugins\RetractableLiftingSurface.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): SCANsat/Plugins/SCANmechjeb
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\SCANsat\Plugins\SCANmechjeb.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'SCANmechjeb' V0.5.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'SCANsat' V1.20.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'MechJeb2' V2.5.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): SCANsat/Plugins/SCANsat
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\SCANsat\Plugins\SCANsat.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'SCANsat' V1.20.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): SCANsat/Plugins/SCANsat.Unity
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\SCANsat\Plugins\SCANsat.Unity.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): ScienceAlert/Plugins/ScienceAlert
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\ScienceAlert\Plugins\ScienceAlert.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ClickThroughBlocker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ToolbarController' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): SmartParts/Plugins/SmartParts
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\SmartParts\Plugins\SmartParts.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): SmokeScreen/SmokeScreen
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\SmokeScreen\SmokeScreen.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): SpaceTuxLibrary/Plugins/ButtonManager
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\SpaceTuxLibrary\Plugins\ButtonManager.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'ButtonManager' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ClickThroughBlocker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ToolbarController' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'KSP_Log' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): SpaceTuxLibrary/Plugins/KSP_ColorPicker
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\SpaceTuxLibrary\Plugins\KSP_ColorPicker.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'KSP_ColorPicker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): SpaceTuxLibrary/Plugins/KSP_Log
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\SpaceTuxLibrary\Plugins\KSP_Log.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'KSP_Log' V1.2.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): SpaceTuxLibrary/Plugins/KSP_PartHighlighter
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\SpaceTuxLibrary\Plugins\KSP_PartHighlighter.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'KSP_PartHighlighter' V1.1.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): SpaceTuxLibrary/Plugins/SpaceTuxUtility
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\SpaceTuxLibrary\Plugins\SpaceTuxUtility.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'SpaceTuxUtility' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): SpaceTuxLibrary/Plugins/VesselModuleSave
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\SpaceTuxLibrary\Plugins\VesselModuleSave.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'VesselModuleSave' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): Squad/Plugins/KSPSteamCtrlr
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Squad\Plugins\KSPSteamCtrlr.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): StageRecovery/Plugins/StageRecovery
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\StageRecovery\Plugins\StageRecovery.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ClickThroughBlocker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ToolbarController' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): StationPartsExpansionRedux/Plugins/HabUtils
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\StationPartsExpansionRedux\Plugins\HabUtils.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): StationScience/Plugins/StationScience
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\StationScience\Plugins\StationScience.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): Trajectories/Plugin/Trajectories
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Trajectories\Plugin\Trajectories.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): TweakScale/Plugins/KSPe.Light.TweakScale
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\TweakScale\Plugins\KSPe.Light.TweakScale.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'KSPe.Light.TweakScale' V2.2.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): TweakScale/Plugins/Scale
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\TweakScale\Plugins\Scale.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'Scale' V2.4.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): UmbraSpaceIndustries/Konstruction/Konstruction
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\UmbraSpaceIndustries\Konstruction\Konstruction.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): UmbraSpaceIndustries/MKS/KolonyTools
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\UmbraSpaceIndustries\MKS\KolonyTools.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): UmbraSpaceIndustries/WOLF/USI_WOLF
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\UmbraSpaceIndustries\WOLF\USI_WOLF.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): UniversalStorage2/Plugins/UniversalStorage2
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\UniversalStorage2\Plugins\UniversalStorage2.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): UniversalStorage2/Plugins/UniversalStorage2.Unity
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\UniversalStorage2\Plugins\UniversalStorage2.Unity.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): WarpPlugin/Plugins/Interstellar
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\WarpPlugin\Plugins\Interstellar.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'KSPInterstellar' V10.3.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): WarpPlugin/Plugins/Interstellar_Redist
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\WarpPlugin\Plugins\Interstellar_Redist.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): WarpPlugin/Plugins/MiniAVC
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\WarpPlugin\Plugins\MiniAVC.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): WildBlueIndustries/000WildBlueTools/Plugins/WildBlueTools
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\WildBlueIndustries\000WildBlueTools\Plugins\WildBlueTools.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): WildBlueIndustries/001KerbalActuators/Plugins/KerbalActuators
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\WildBlueIndustries\001KerbalActuators\Plugins\KerbalActuators.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): WildBlueIndustries/Blueshift/Plugins/Blueshift
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\WildBlueIndustries\Blueshift\Plugins\Blueshift.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): WildBlueIndustries/Buffalo/Plugins/Buffalo
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\WildBlueIndustries\Buffalo\Plugins\Buffalo.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): WildBlueIndustries/Pathfinder/Plugins/Pathfinder
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\WildBlueIndustries\Pathfinder\Plugins\Pathfinder.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Load(Assembly): Workshop/Plugins/Workshop
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assembly at F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\GameData\Workshop\Plugins\Workshop.dll
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssembly 'Workshop' V1.1.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'KIS' V1.2.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ClickThroughBlocker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'ToolbarController' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'KSP_ColorPicker' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'KSP_Log' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: KSPAssemblyDependency 'KSP_PartHighlighter' V1.0.0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Loading assemblies
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: AtmosphereAutopilot.UI, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: AtmosphereAutopilot.UI, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: EVEManager, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: EVEManager, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: Utils, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: Utils, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: KSPDev_Utils.2.4, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: KSPDev_Utils.2.4, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: kOS.Safe, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: kOS.Safe, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: LmpCommon, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: LmpCommon, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: SCANsat.Unity, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: SCANsat.Unity, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: BARISBridge, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+ADDON BINDER: Cannot resolve assembly: BARISBridge, Culture=neutral, PublicKeyToken=null
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Exception loading 'WildBlueTools': System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <ad04dee02e7e4a85a1299c7ee81c79f6>:0 
+  at AssemblyLoader.LoadAssemblies () [0x000e6] in <06f13185617646e5bc801baeab53ab75>:0 
+
+Additional information about this exception:
+
+ System.TypeLoadException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+ System.TypeLoadException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+ System.TypeLoadException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+ System.TypeLoadException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+ System.TypeLoadException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Exception loading 'Buffalo': System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <ad04dee02e7e4a85a1299c7ee81c79f6>:0 
+  at AssemblyLoader.LoadAssemblies () [0x000e6] in <06f13185617646e5bc801baeab53ab75>:0 
+
+Additional information about this exception:
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+AssemblyLoader: Exception loading 'Pathfinder': System.Reflection.ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <ad04dee02e7e4a85a1299c7ee81c79f6>:0 
+  at AssemblyLoader.LoadAssemblies () [0x000e6] in <06f13185617646e5bc801baeab53ab75>:0 
+
+Additional information about this exception:
+
+ System.TypeLoadException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies. assembly:BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null type:<unknown type> member:(null) signature:<none>
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+
+ System.IO.FileNotFoundException: Could not load file or assembly 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+File name: 'BARISBridge, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type AxisGroupsModule with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type CometVessel with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type FlightIntegrator with order 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type CommNetVessel with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type ModuleStabilization with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type BetterBurnTimeData with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type VesselDataManager with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type ModuleDynamicBatteryStorage with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type ELVesselWorkNet with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type ModularFlightIntegrator with order 0
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type FlightGUI with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type FARVesselAero with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[RPMVesselComputer]: Initializing RPM version 0.31.4.25860
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type RPMVesselComputer with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type kOSVesselModule with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type FARVesselListener with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type VesselModuleSave with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found VesselModule of type WOLF_CrewModule with order 999
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+VesselModules: Found 17 VesselModule types
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+
+************************************************************************
+
+Environment Info
+Win32NT 7FFFFFFFFFFFFFFF  Args: KSP_x64.exe 
+
+Mod DLLs found:
+Stock assembly: Assembly-CSharp v0.0.0.0
+ModuleManagerWatchDog v0.0.1.0
+Scale_Redist v1.0.0.0 / v2.4.4.0
+KSPModFileLocalizer v0.2.3.7
+KSPUpgradeScriptFix v1.0.0.0
+ModuleManager v4.1.4.0
+ClickThroughBlocker v0.1.10.15 / v1.0.0.0
+FilterExtensions v3.2.6.0 / v1.0.0.0
+USITools v1.0.0.0
+ToolbarControl v0.1.9.4 / v1.0.0.0
+Attached v0.1.0.8
+ChillingOut v0.1.0.8
+Driftless v0.1.0.8
+KSP-Recall v0.1.0.8
+KSPe.Light.Recall v2.3.0.1
+Refunding v0.1.0.8
+Resourceful v0.1.0.8
+ASETPropsIdentifier v1.5.0.0
+AtmosphereAutopilot v1.5.16.0
+AtmosphereAutopilot.UI v1.0.0.0
+B9PartSwitch v2.18.0.0 / vv2.18.0
+B9_Aerospace_WingStuff v0.92.0.0 / v0.92
+PlanetsideExplorationTechnologies v1.0.0.0
+BetterBurnTime v1.0.0.0
+BetterTimeWarp v2.3.12.5
+BonVoyage v1.3.1.0
+ChampagneBottle v0.3.11.1 / v1.0.0.0
+CCK v5.1.0.0 / v5.1.0.0 for KSP v1
+MiniAVC v1.0.3.0
+SimpleBoiloff v0.2.1.0
+DecouplerShroud v1.0.0.0
+DeployableEngines v2.2.0.0
+MiniAVC v1.0.3.0
+AGExt v2.4.0.1 / v1.0.0.0
+DMagic v1.4.3.0 / vv1.4.3.0
+DynamicBatteryStorage v1.0.0.0
+EditorExtensionsRedux v3.4.2.0
+Atmosphere v1.11.2.1
+CelestialShadows v1.11.2.1
+CityLights v1.11.2.1
+EVEManager v1.11.2.1
+PartFX v1.11.2.1
+PQSManager v1.11.2.1
+ShaderLoader v1.11.2.1
+Terrain v1.11.2.1
+TextureConfig v1.11.2.1
+Utils v1.11.2.1
+_BuildManager v1.11.2.1
+Launchpad v6.8.3.0 / v6.8.3
+FerramAerospaceResearch.Base v0.16.0.2
+ModularFlightIntegrator v1.0.0.0 / v1.2.10.0
+FerramAerospaceResearch v0.16.0.2
+ferramGraph v1.3.0.0
+Scale_Redist v1.0.0.0 / v2.4.4.0
+Firespitter v7.3.7660.26532
+MiniAVC v1.0.3.0
+FMRS v1.2.9.1 / v1.0.2.0
+MiniAVC v1.0.3.0
+FShangarExtender v3.6.0.0 / v3.5.0.0
+MiniAVC v1.0.3.0
+HideEmptyTechTreeNodes v1.0.0.0
+InterstellarFuelSwitch v3.29.2.0
+MiniAVC v1.0.3.0
+RasterPropMonitor v0.31.4.25860
+KAS-API-v2 v2.0.7239.35367 / vKAS API v2
+KAS v1.7.7516.37663 / v1.7 for KSP v1
+KSPDev_Utils.2.4 v2.4.7504.27510 / v2.4 for KSP v1
+KerbalEngineer.Unity v1.0.0.0
+KerbalEngineer v1.1.8.3
+DeployableAeroSurfaces v1.0.0.0
+KIS v1.28.7685.40880 / v1.28 for KSP v1.11+
+KSPDev_Utils.2.4 v2.4.7504.27510 / v2.4 for KSP v1
+MiniAVC-V2 v2.0.0.0
+Kopernicus.Parser v1.0.0.0
+Kopernicus v1.0.0.0
+ICSharpCode.SharpZipLib v0.86.0.518 / v0.86.0
+kOS v1.3.2.0
+kOS.Safe v1.3.2.0
+ksp-advanced-flybywire v1.8.3.3 / v1.1.0.0
+XInputDotNetPure v1.0.0.0
+KSPTOTConnect v1.0.0.0
+0Harmony v1.2.0.1
+CachedQuickLz v1.3.1.0 / v1.3.1
+JsonFx v2.0.1209.2802
+Lidgren.Network v0.27.0.382 / v0.27.0.382-Release
+LmpClient v0.27.0.382 / v0.27.0.382-Release
+LmpCommon v0.27.0.382 / v0.27.0.382-Release
+LmpGlobal v0.27.0.382 / v0.27.0.382-Release
+System.Runtime.Serialization v3.0.0.0 / v3.0.4506.648
+MechJeb2 v2.5.1.0 / v / v2.12.0.0
+NearFutureElectrical v1.0.0.0
+NearFutureExploration v0.4.0.0
+NFPropUtils v1.0.0.0
+NearFuturePropulsion v0.9.0.0
+NearFutureSolar v0.4.0.0
+NearFutureUtils v0.0.0.0
+Orion v1.0.0.0
+PersistentRotation v1.9.0.0
+PersistentThrust v1.7.5.0
+Interstellar_Redist v1.3.0.0
+MiniAVC v1.0.3.0
+PhotonSail v1.7.1.0
+PlanetarySurfaceStructures v1.6.13.0
+RATPack v0.4.3.3 / v1.0.0.0
+RealChute v1.4.7691.3806 / v1.4.8.2
+ReCoupler v1.0.0.0
+MiniAVC v1.0.3.0
+RecoveryController v0.0.4.0 / v1.0.0.0
+BackgroundResources v1.11.0.0
+DeepFreeze v0.30.0.0
+RetractableLiftingSurface v0.2.0.0 / v1.0.0.0
+SCANsat v1.20.4.0 / vv20.4
+SCANmechjeb v1.20.4.0 / vv20.4
+SCANsat.Unity v1.20.4.0
+ScienceAlert v1.9.9.0
+SmartParts v1.9.16.1
+SmokeScreen v2.8.14.0
+KSP_Log v0.1.1.6 / v1.0.0.0
+ButtonManager v0.0.1.0 / v1.0.0.0
+KSP_ColorPicker v0.1.0.3 / v1.0.0.0
+KSP_PartHighlighter v0.1.0.8 / v1.0.0.0
+SpaceTuxUtility v0.0.3.0 / v1.0.0.0
+VesselModuleSave v0.0.1.1 / v1.0.0.0
+Stock assembly: KSPSteamCtrlr v0.0.1.35
+StageRecovery v1.9.5.3 / v1.8.0.0
+HabUtils v1.0.0.0
+StationScience v2.6.1.0
+Trajectories v2.4.0.0
+KSPe.Light.TweakScale v2.2.2.3
+Scale v2.4.5.0
+Konstruction v0.0.0.0
+KolonyTools v1.0.0.0
+USI_WOLF v1.0.0.0
+UniversalStorage2 v1.8.0.0 / vv1.8.0.0
+UniversalStorage2.Unity v1.8.0.0
+Interstellar v1.28.8.0 / v1.28.8
+Interstellar_Redist v1.3.0.0
+MiniAVC v1.0.3.0
+KerbalActuators v1.0.0.0
+Blueshift v1.0.0.0
+Workshop v1.2.14.3 / v1.2.5
+
+Folders and files in GameData:
+000_ClickThroughBlocker
+000_FilterExtensions
+000_FilterExtensions_Configs
+000_USITools
+001_ToolbarControl
+999_KSP-Recall
+AirplanePlus
+ASET
+AtmosphereAutopilot
+B9PartSwitch
+B9_Aerospace_ProdecuralWings-1-0-0
+Benjee10_MMSEV
+Benjee10_sharedAssets
+BetterBurnTime
+BetterTimeWarp
+BonVoyage
+Champagne
+CommunityCategoryKit
+CommunityResourcePack
+CommunityTechTree
+ConfigurableContainers
+ContractPacks
+CryoEngines
+CryoEnginesNFAero
+CryoEnginesNFLV
+CryoTanks
+DecouplerShroud
+DeployableEngines
+Diazo
+DMagicOrbitalScience
+DynamicBatteryStorage
+EditorExtensionsRedux
+EnvironmentalVisualEnhancements
+ExtraplanetaryLaunchpads
+FerramAerospaceResearch
+Firespitter
+FMRS
+FShangarExtender
+GU
+HabTechProps
+HeatControl
+HideEmptyTechTreeNodes
+ImprovedTreeEnginePlacement
+InterstellarFuelSwitch
+JSI
+KAS
+KerbalEngineer
+KerbalInventoryForAll
+KerbalizedDecals
+KerbalizedFlagpack
+KerbalReusabilityExpansion
+KIS
+Kopernicus
+kOS
+ksp-advanced-flybywire
+KSPTOTConnect
+LunaMultiplayer
+MarkIVSystem
+MechJeb2
+Mk2Expansion
+Mk3Expansion
+Moar Flags!
+ModularFlightIntegrator
+ModuleManagerWatchDog
+NearFutureAeronautics
+NearFutureElectrical
+NearFutureExploration
+NearFutureProps
+NearFuturePropulsion
+NearFutureSolar
+NearFutureSpacecraft
+OPT
+OPT_Legacy
+OPT_Reconfig
+Orion
+OSSNTR
+PersistentRotation
+PersistentThrust
+PhotonSail
+PlanetaryBaseInc
+RationalHydroDynamics
+RATPack
+RealChute
+RealPlume
+RealPlume-Stock
+ReCoupler
+RecoveryController
+REPOSoftTech
+RetractableLiftingSurface
+SCANsat
+ScienceAlert
+SmartParts
+SmokeScreen
+SpaceTuxLibrary
+Stock folder: Squad
+
+Stock folder: SquadExpansion
+
+StageRecovery
+StationPartsExpansionRedux
+StationScience
+Trajectories
+TweakScale
+UmbraSpaceIndustries
+UniversalStorage2
+WarpPlugin
+WildBlueIndustries
+Workshop
+666_ModuleManagerWatchDog.dll
+999_Scale_Redist.dll
+Custom_FARAeroData.cfg
+KSPModFileLocalizer.dll
+KSPUpgradeScriptFix.dll
+ModuleManager.4.1.4.dll
+ModuleManager.ConfigCache
+ModuleManager.ConfigSHA
+ModuleManager.Physics
+ModuleManager.TechTree
+MultiStarSolarPanels.cfg
+
+************************************************************************
+
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Startup' from assembly '666_ModuleManagerWatchDog'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'StaticFileLocalizer' from assembly 'KSPModFileLocalizer'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'KSPediaLocalizer' from assembly 'KSPModFileLocalizer'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[KSPediaLocalizer] Current language is: zh-cn
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[KSPediaLocalizer] Right language is set: GameData/PlanetaryBaseInc/KSPedia/planetarybaseinc_zh-cn.ksp
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'ModuleManager' from assembly 'ModuleManager'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[ModuleManager] Adding post patch to the loading screen 4
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[ModuleManager] Patching started on a new thread, all output will be directed to F:/lyj's locker/lyj's games/steam/steamapps/common/Kerbal Space Program 1.11.2/KSP_x64_Data/../Logs\ModuleManager\ModuleManager.log
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Startup' from assembly 'FilterExtensions'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'ConfigInfo' from assembly 'ToolbarController'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Startup' from assembly 'ToolbarController'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'RegisterToolbarBlizzyOptions' from assembly 'ToolbarController'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Startup' from assembly 'KSP-Recall'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Startup' from assembly 'KSPe.Light.Recall'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'GimbalRearranger' from assembly 'AtmosphereAutopilot'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AtmosphereAutopilot]: PartLoader loader found, injecting mod loaders before it
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'PrefabManagerInstant' from assembly 'B9PartSwitch'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[B9PartSwitch.UI.TooltipHelper] created subtype info tooltip prefab
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'ConfigSettings' from assembly 'PlanetsideExplorationTechnologies'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[PlanetsideExplorationTechnologies] Settings loaded
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'SplashScreen' from assembly 'BetterBurnTime'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Startup' from assembly 'BetterTimeWarp'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Startup' from assembly 'ChampagneBottle'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Logger' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Starter' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Logger' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Starter' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Startup' from assembly 'AGExt'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'DynamicBatteryStorage' from assembly 'DynamicBatteryStorage'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Startup' from assembly 'EditorExtensionsRedux'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'GlobalEVEManager' from assembly 'EVEManager'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVEManagerBase.GetManagers(): Unable to load assembly: 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVEManagerBase.GetManagers(): Unable to load assembly: 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+EVEManagerBase.GetManagers(): Unable to load assembly: 
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'ShaderLoaderClass' from assembly 'ShaderLoader'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'ShaderProperties' from assembly 'Utils'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon '_BuildManager' from assembly '_BuildManager'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Uploading Crash Report
+NotSupportedException: The invoked member is not supported in a dynamic module.
+  at System.Reflection.Emit.AssemblyBuilder.get_Location () [0x00006] in <ad04dee02e7e4a85a1299c7ee81c79f6>:0 
+  at _BuildManager._BuildManager+<>c__DisplayClass2_0.<logVersion>b__0 (System.Reflection.Assembly x) [0x00000] in <3f485ce99d7e479c99f0f040223fbad6>:0 
+  at System.Linq.Enumerable+WhereSelectArrayIterator`2[TSource,TResult].ToList () [0x00019] in <fbb5ed17eb6e46c680000f8910ebb50c>:0 
+  at System.Linq.Enumerable.ToList[TSource] (System.Collections.Generic.IEnumerable`1[T] source) [0x0001f] in <fbb5ed17eb6e46c680000f8910ebb50c>:0 
+  at _BuildManager._BuildManager.logVersion () [0x0005c] in <3f485ce99d7e479c99f0f040223fbad6>:0 
+  at _BuildManager._BuildManager.Awake () [0x00000] in <3f485ce99d7e479c99f0f040223fbad6>:0 
+UnityEngine.DebugLogHandler:Internal_LogException(Exception, Object)
+UnityEngine.DebugLogHandler:LogException(Exception, Object)
+ModuleManager.UnityLogHandle.InterceptLogHandler:LogException(Exception, Object)
+UnityEngine.Logger:LogException(Exception, Object)
+UnityEngine.Debug:CallOverridenDebugHandler(Exception, Object)
+UnityEngine.GameObject:Internal_AddComponentWithType(Type)
+UnityEngine.GameObject:AddComponent(Type)
+AddonLoader:StartAddon(LoadedAssembly, Type, KSPAddon, Startup)
+AddonLoader:StartAddons(Startup)
+<LoadObjects>d__90:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+UnityEngine.MonoBehaviour:StartCoroutineManaged2(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+<CreateDatabase>d__71:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+UnityEngine.MonoBehaviour:StartCoroutineManaged2(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+GameDatabase:StartLoad()
+<LoadSystems>d__11:MoveNext()
+UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
+UnityEngine.MonoBehaviour:StartCoroutineManaged2(IEnumerator)
+UnityEngine.MonoBehaviour:StartCoroutine(IEnumerator)
+LoadingScreen:Start()
+ 
+(Filename: <ad04dee02e7e4a85a1299c7ee81c79f6> Line: 0)
+
+[AddonLoader]: Instantiating addon 'ELRecipeDatabase' from assembly 'Launchpad'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'CompatibilityChecker' from assembly 'Launchpad'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'ELVersionReport' from assembly 'Launchpad'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'MFIManager' from assembly 'ModularFlightIntegrator'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'FARKSPAdapter' from assembly 'FerramAerospaceResearch'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[FAR v0.16.0.2]: Using Trace log level
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[FAR v0.16.0.2] debug: MonoSingleton FARKSPAdapter (FerramAerospaceResearch.FARKSPAdapter) is awake
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[FAR v0.16.0.2] debug: MonoSingleton FerramAerospaceResearch.FARAddonLoader (MonoSingleton) (FerramAerospaceResearch.FARAddonLoader) is awake
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'ThreadSafeDebugLogger' from assembly 'FerramAerospaceResearch'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Logger' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Starter' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Startup' from assembly 'SlingShotter'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Logger' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Starter' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Startup' from assembly 'FShangarExtender'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Logger' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Starter' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Logger' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'Starter' from assembly 'MiniAVC'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'KASAPILauncher' from assembly 'KAS'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+Uploading Crash Report
+Crash!!!
+SymInit: Symbol-SearchPath: '.;F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2;F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'hyt66'
+OS-Version: 10.0.0
+F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\KSP_x64.exe:KSP_x64.exe (00007FF7DB010000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.2.2.4392
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFA3B420000), size: 2031616 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1533
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFA3B1F0000), size: 729088 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1500
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFA386A0000), size: 2772992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1474
+F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\UnityPlayer.dll:UnityPlayer.dll (00007FF9F4620000), size: 25194496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.2.2.4392
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFA3B010000), size: 1654784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1316
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFA39300000), size: 135168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1556
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFA3B1C0000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1316
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFA389E0000), size: 1671168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1500
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFA39330000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1110
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFA38390000), size: 1024000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1110
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFA399E0000), size: 1404928 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1316
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFA3A420000), size: 3366912 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1500
+Loading KAS API v2 from: KAS/Plugins/KAS.dll (v1.7.7516.37663)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+[AddonLoader]: Instantiating addon 'LibraryLoader' from assembly 'KSPDev_Utils.2.4'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFA3A760000), size: 1175552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1500
+Loading KSPDevUtils: KAS/Plugins/KSPDev_Utils.2.4.dll (v2.4.7504.27510)
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (00007FFA39440000), size: 528384 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1237
+[AddonLoader]: Instantiating addon 'AssetBundleLoader' from assembly 'KerbalEngineer'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+C:\WINDOWS\System32\advapi32.dll:advapi32.dll (00007FFA39BE0000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.752
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFA39B40000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.18362.1
+[AddonLoader]: Instantiating addon 'MyLogger' from assembly 'KerbalEngineer'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFA30A90000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+[AddonLoader]: Instantiating addon 'GeneralSettings' from assembly 'KerbalEngineer'
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 35)
+
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFA3A880000), size: 618496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1474
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFA3B2B0000), size: 335872 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1316
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFA39C90000), size: 4653056 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\cfgmgr32.dll:cfgmgr32.dll (00007FFA393F0000), size: 303104 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FFA38950000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1237
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFA3A920000), size: 7237632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1533
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFA39760000), size: 688128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1533
+C:\WINDOWS\System32\windows.storage.dll:windows.storage.dll (00007FFA38B80000), size: 7843840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1533
+C:\WINDOWS\System32\profapi.dll:profapi.dll (00007FFA38370000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1411
+C:\WINDOWS\System32\powrprof.dll:powrprof.dll (00007FFA38320000), size: 303104 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\UMPDC.dll:UMPDC.dll (00007FFA382D0000), size: 65536 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\System32\kernel.appcore.dll:kernel.appcore.dll (00007FFA38300000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1171
+C:\WINDOWS\System32\cryptsp.dll:cryptsp.dll (00007FFA393D0000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFA3A300000), size: 454656 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFA39810000), size: 806912 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1556
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FFA398E0000), size: 188416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFA38540000), size: 1380352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1411
+C:\WINDOWS\System32\MSASN1.dll:MSASN1.dll (00007FFA382E0000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFA35E20000), size: 147456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFA0EB80000), size: 1400832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1500
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFA329C0000), size: 1024000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1411
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFA36EB0000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFA36970000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1316
+C:\WINDOWS\SYSTEM32\WindowsCodecs.dll:WindowsCodecs.dll (00007FFA33450000), size: 1765376 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1500
+C:\WINDOWS\SYSTEM32\WSOCK32.dll:WSOCK32.dll (00007FFA34B00000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\WINMMBASE.dll:WINMMBASE.dll (00007FFA35D10000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFA0EB50000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FFA36F80000), size: 131072 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1316
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFA36550000), size: 626688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1316
+F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FF9F3EB0000), size: 7770112 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFA3B1B0000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\mswsock.dll:mswsock.dll (00007FFA37B10000), size: 421888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.815
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFA3A1C0000), size: 1265664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1350
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFA35470000), size: 2469888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1411
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFA37070000), size: 962560 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1500
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1c83a5d7cffd7bff\nvldumdx.dll:nvldumdx.dll (00007FFA30700000), size: 1056768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 27.21.14.5671
+C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFA30A20000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1533
+C:\WINDOWS\SYSTEM32\cryptbase.dll:cryptbase.dll (00007FFA37CE0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\WINTRUST.DLL:WINTRUST.DLL (00007FFA38980000), size: 376832 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1377
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (00007FFA3A1A0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFA37690000), size: 208896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\DriverStore\FileRepository\nv_dispi.inf_amd64_1c83a5d7cffd7bff\nvwgf2umx.dll:nvwgf2umx.dll (00007FFA08F70000), size: 44793856 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 27.21.14.5671
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FFA3A370000), size: 663552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFA2BDB0000), size: 69632 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1411
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFA2BD00000), size: 589824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1411
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFA304A0000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1411
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (00007FFA2AD50000), size: 1052672 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (00007FFA28A70000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1316
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFA381C0000), size: 151552 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1139
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (00007FFA31880000), size: 466944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1316
+C:\WINDOWS\System32\DEVOBJ.dll:DEVOBJ.dll (00007FFA380C0000), size: 172032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.387
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFA31AA0000), size: 1445888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1533
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFA33EA0000), size: 1384448 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1500
+C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FFA36880000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.959
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FFA35B30000), size: 1953792 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1474
+C:\WINDOWS\SYSTEM32\TextInputFramework.dll:TextInputFramework.dll (00007FFA25620000), size: 634880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1474
+C:\WINDOWS\SYSTEM32\CoreMessaging.dll:CoreMessaging.dll (00007FFA35D40000), size: 868352 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1316
+C:\WINDOWS\SYSTEM32\CoreUIComponents.dll:CoreUIComponents.dll (00007FFA33850000), size: 3317760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1110
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFA37310000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\KSP_x64_Data\Plugins\steam_api64.dll:steam_api64.dll (000000005B840000), size: 266240 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 4.4.91.85
+C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL:IPHLPAPI.DLL (00007FFA37820000), size: 237568 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FFA3A110000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1171
+C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFA31520000), size: 90112 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1171
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFA314E0000), size: 114688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1171
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFA37870000), size: 831488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1500
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFA2BF90000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1
+C:\WINDOWS\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFA30B10000), size: 487424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1533
+C:\WINDOWS\SYSTEM32\mscms.dll:mscms.dll (00007FFA32AC0000), size: 712704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1316
+C:\WINDOWS\SYSTEM32\ColorAdapterClient.dll:ColorAdapterClient.dll (00007FFA32950000), size: 94208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+C:\WINDOWS\SYSTEM32\icm32.dll:icm32.dll (00007FFA225A0000), size: 274432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.836
+F:\lyj's locker\lyj's games\steam\steamapps\common\Kerbal Space Program 1.11.2\KSP_x64_Data\Plugins\lingoona_grammar_kerbal.dll:lingoona_grammar_kerbal.dll (00007FFA05EA0000), size: 1204224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.5.6.1002
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFA28570000), size: 2048000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1440
+C:\WINDOWS\SYSTEM32\SspiCli.dll:SspiCli.dll (00007FFA381F0000), size: 192512 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.18362.1474
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FF9F4D221FD (UnityPlayer) UnityMain
+0x00007FF9F4D1FED5 (UnityPlayer) UnityMain
+0x00007FF9F4F41279 (UnityPlayer) PAL_Thread_YieldExecution
+0x0000021E3438B78A (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Mesh:Internal_Create (UnityEngine.Mesh)
+0x0000021E3438B6FB (Mono JIT Code) UnityEngine.Mesh:.ctor ()
+0x0000021E3438B163 (Mono JIT Code) TMPro.TextMeshProUGUI:Awake ()
+0x0000021E4740DB70 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x00007FF9F3FDBC80 (mono-2.0-bdwgc) mono_get_runtime_build_info
+0x00007FF9F3F61D92 (mono-2.0-bdwgc) mono_perfcounters_init
+0x00007FF9F3F6AD8F (mono-2.0-bdwgc) mono_runtime_invoke
+0x00007FF9F4EAB19D (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F4EA871A (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F4EA87DE (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F4ECE4B5 (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F4E8CFB0 (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F4E8C1AD (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F4E8C50C (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F4EE0BDB (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F4C4A8CE (UnityPlayer) UnityMain
+0x00007FF9F4C4AF39 (UnityPlayer) UnityMain
+0x00007FF9F4F08C18 (UnityPlayer) PAL_Thread_YieldExecution
+0x0000021E343E835A (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Object:Internal_CloneSingle (UnityEngine.Object)
+0x0000021E343E81C3 (Mono JIT Code) UnityEngine.Object:Instantiate<T_REF> (T_REF)
+0x0000021E3444AEFB (Mono JIT Code) ScreenMessages:CreateTextInstance (ScreenMessage)
+0x0000021E3444A8EB (Mono JIT Code) ScreenMessages:PostMessage (ScreenMessage,string,ScreenMessagesText,single,ScreenMessageStyle,UnityEngine.Color)
+0x0000021E3444A6BB (Mono JIT Code) ScreenMessages:PostMessage (ScreenMessage,string,ScreenMessagesText,single,ScreenMessageStyle)
+0x0000021E3444A5F3 (Mono JIT Code) ScreenMessages:PostScreenMessage (string,single,ScreenMessageStyle)
+0x0000021E3442D553 (Mono JIT Code) KSPLog:LogToScreen (string,string,UnityEngine.LogType)
+0x0000021E3442D143 (Mono JIT Code) (wrapper delegate-invoke) <Module>:invoke_void_string_string_LogType (string,string,UnityEngine.LogType)
+0x0000021E34418BCC (Mono JIT Code) KSPLog:LogCallback (string,string,UnityEngine.LogType)
+0x0000021E344189DC (Mono JIT Code) UnityEngine.Application:CallLogCallback (string,string,UnityEngine.LogType,bool)
+0x0000021E34418AA3 (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_void_object_object_int_byte (object,intptr,intptr,intptr)
+0x00007FF9F3FDBC80 (mono-2.0-bdwgc) mono_get_runtime_build_info
+0x00007FF9F3F61D92 (mono-2.0-bdwgc) mono_perfcounters_init
+0x00007FF9F3F6AD8F (mono-2.0-bdwgc) mono_runtime_invoke
+0x00007FF9F4EAB19D (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F4EA871A (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F4EA592E (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F4E4DA0F (UnityPlayer) PAL_Thread_YieldExecution
+0x00007FF9F52FBFF5 (UnityPlayer) PAL_Memory_Free
+0x00007FF9F52FBE67 (UnityPlayer) PAL_Memory_Free
+0x00007FF9F4EF0C72 (UnityPlayer) PAL_Thread_YieldExecution
+0x0000021E38809B6E (Mono JIT Code) (wrapper managed-to-native) UnityEngine.DebugLogHandler:Internal_Log (UnityEngine.LogType,UnityEngine.LogOption,string,UnityEngine.Object)
+0x0000021E3880986B (Mono JIT Code) UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x0000021E6149A317 (Mono JIT Code) ModuleManager.UnityLogHandle.InterceptLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+0x0000021E614E83CE (Mono JIT Code) FerramAerospaceResearch.FARLogHandler:LogException (System.Exception,string,object)
+0x0000021E614DA583 (Mono JIT Code) FerramAerospaceResearch.Reflection.ReflectionUtils:GetTypes (System.Reflection.Assembly)
+0x0000021E614D9E13 (Mono JIT Code) FerramAerospaceResearch.Reflection.ReflectionUtils/<GetTypes>d__24:MoveNext ()
+0x0000021E388308CA (Mono JIT Code) System.Collections.Generic.List`1<T_REF>:.ctor (System.Collections.Generic.IEnumerable`1<T_REF>)
+0x0000021E614D96CB (Mono JIT Code) FerramAerospaceResearch.FARAddonLoader:InitTask ()
+0x0000021E614D9524 (Mono JIT Code) System.Threading.Tasks.Task:InnerInvoke ()
+0x0000021E614D938B (Mono JIT Code) System.Threading.Tasks.Task:Execute ()
+0x0000021E614D92F3 (Mono JIT Code) System.Threading.Tasks.Task:ExecutionContextCallback (object)
+0x0000021E6149E226 (Mono JIT Code) System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+0x0000021E6149DD4B (Mono JIT Code) System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
+0x0000021E614D9093 (Mono JIT Code) System.Threading.Tasks.Task:ExecuteWithThreadLocal (System.Threading.Tasks.Task&)
+0x0000021E614D8993 (Mono JIT Code) System.Threading.Tasks.Task:ExecuteEntry (bool)
+0x0000021E614D883B (Mono JIT Code) System.Threading.Tasks.Task:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem ()
+0x0000021E614D7452 (Mono JIT Code) System.Threading.ThreadPoolWorkQueue:Dispatch ()
+0x0000021E614D6C33 (Mono JIT Code) System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
+0x0000021E614D6E7D (Mono JIT Code) (wrapper runtime-invoke) <Module>:runtime_invoke_bool (object,intptr,intptr,intptr)
+0x00007FF9F3FDBC80 (mono-2.0-bdwgc) mono_get_runtime_build_info
+0x00007FF9F3F61D92 (mono-2.0-bdwgc) mono_perfcounters_init
+0x00007FF9F3F88BA1 (mono-2.0-bdwgc) mono_threads_set_shutting_down
+0x00007FF9F3F8B221 (mono-2.0-bdwgc) mono_threads_set_shutting_down
+0x00007FF9F3F857D8 (mono-2.0-bdwgc) mono_threads_set_shutting_down
+0x00007FF9F3F85566 (mono-2.0-bdwgc) mono_threads_set_shutting_down
+0x00007FFA3B207C24 (KERNEL32) BaseThreadInitThunk
+0x00007FFA3B48D721 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/hyt66/AppData/Local/Temp/Squad/Kerbal Space Program/Crashes
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
+Curl error 35: Handshake did not perform verification. UnityTls error code: 7
